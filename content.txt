@@ -1,0 +1,9 @@
+(paragraph)
+What began as an opportunity to bring the immensely popular sport of squash to the New York masses has evolved and expanded to a network of over 150 clubs catering to over half a million members across eight states and two countries (including Switzerland!). 
+
+(heading)
+Who We Are
+
+(button text)
+JOIN TODAY
+
